@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # FounderFlow AI
 
@@ -34,3 +35,7 @@ Developed by a team of two students.
 - User authentication
 - Database connectivity
 - Team collaboration
+=======
+# founderflow-ai
+AI-powered productivity platform for startup founders  Copy
+>>>>>>> f95c690ff9abf530fc086105d78eff6a5e7c3fb1
