@@ -1,0 +1,49 @@
+
+export const dummyTasks = [
+  {
+    id: 1,
+    title: "Complete market research",
+    priority: "High",
+    status: "Pending",
+  },
+  {
+    id: 2,
+    title: "Design startup website",
+    priority: "Medium",
+    status: "Completed",
+  },
+  {
+    id: 3,
+    title: "Prepare investor pitch",
+    priority: "High",
+    status: "Pending",
+  },
+];
+
+export const dummyGoals = [
+  {
+    id: 1,
+    title: "Launch first MVP",
+    progress: 65,
+    deadline: "30 November 2026",
+  },
+  {
+    id: 2,
+    title: "Reach first 100 users",
+    progress: 30,
+    deadline: "20 December 2026",
+  },
+];
+
+export const dummyIdeas = [
+  {
+    id: 1,
+    title: "AI Customer Feedback Analyser",
+    description: "Analyse customer feedback using AI.",
+  },
+  {
+    id: 2,
+    title: "Startup Expense Tracker",
+    description: "Track expenses for early-stage startups.",
+  },
+];

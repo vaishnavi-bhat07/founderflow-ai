@@ -1,0 +1,13 @@
+founderflow-ai
+│
+├── app
+│   ├── page.tsx
+│   ├── layout.tsx
+│   └── globals.css
+│
+├── context
+│   └── FounderContext.tsx
+│
+├── public
+├── package.json
+└── README.md
